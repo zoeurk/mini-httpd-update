@@ -8,4 +8,4 @@ So I don't talk about liscense.
   
 It's possible and lok like to be easy to add syslog ability...  
   
-Maybe a nice choice for hidden service with TOR (Tor Onion Router) ;)  
+Maybe a nice choice for hidden service with TOR (Tor Onion Router) on Linux ;)  
