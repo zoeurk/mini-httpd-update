@@ -1,7 +1,7 @@
 # mini-httpd for POST with data
 
 I give you this update of mini-httpd.  
-This give the ability to do POST with data (function finish_request, see __man shutdown__) and REDIRECT_STATUS for __php-cgi__.  
+This give the ability to make the POSTs with data (function finish_request, see __man shutdown__) and REDIRECT_STATUS for __php-cgi__.  
 In __config file__ you can add this key: _server_redirect_  
 On the __command line__ it is understand by '_-R_'
   
