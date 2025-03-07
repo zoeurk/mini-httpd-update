@@ -2,6 +2,8 @@
 
 I give you this mini-httpd update.  
 This give the ability to POST data(function finish_request, see __man shutdown__) and REDIRECT_STATUS for __php-cgi__.  
+In config file you can add this key: server_redirect  
+On the command line it is understand by '-R'
   
 I have give this file to responsable of the project but I don't know what is it about...  
 So I don't talk about liscense.  
